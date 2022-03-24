@@ -1,6 +1,6 @@
 # Enabling and using S3 Transfer Acceleration<a name="transfer-acceleration-examples"></a>
 
-You can use Amazon S3 Transfer Acceleration transfer files quickly and securely over long distances between your client and an S3 bucket\. You can enable Transfer Acceleration using the S3 console, the AWS Command Line Interface \(AWS CLI\), or the AWS SDKs\.
+You can use Amazon S3 Transfer Acceleration to transfer files quickly and securely over long distances between your client and an S3 bucket\. You can enable Transfer Acceleration using the S3 console, the AWS Command Line Interface \(AWS CLI\), or the AWS SDKs\.
 
 This section provides examples of how to enable Amazon S3 Transfer Acceleration on a bucket and use the acceleration endpoint for the enabled bucket\. 
 
